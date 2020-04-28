@@ -3,7 +3,8 @@
     "Inversion Of Control",
     "Dependency Injection",
     "Dependency Inversion Principle",
-    "SpEL"
+    "SpEL",
+    "Spring MVC"
   ],
   "boolean": true,
   "color": "gold",
