@@ -2,7 +2,8 @@
   "courseContent": [
     "Inversion Of Control",
     "Dependency Injection",
-    "Dependency Inversion Principle"
+    "Dependency Inversion Principle",
+    "SpEL"
   ],
   "boolean": true,
   "color": "gold",
