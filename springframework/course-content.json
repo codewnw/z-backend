@@ -1,8 +1,8 @@
 {
   "courseContent": [
-    1,
-    2,
-    3
+    "Inversion Of Control",
+    "Dependency Injection",
+    "Dependency Inversion Principle"
   ],
   "boolean": true,
   "color": "gold",
